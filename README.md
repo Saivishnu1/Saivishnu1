@@ -43,10 +43,10 @@
 
 ### 🌟 Featured Projects
 
-- 🔧 **[cloud-bintel](https://github.com/Saivishnu1/cloud-bintel)** – TypeScript-based scalable cloud app
+- 🔧 **[cloud-bintel](https://github.com/Saivishnu1/cloud-bintel)** – NextJs-based website for a startup
 - 🚗 **[Vehicle Routing Problem](https://github.com/Saivishnu1/Vehicle-Routing-Problem)** – Optimization using Python and Jupyter
 - 🌐 **[technunctus](https://github.com/Saivishnu1/technunctus)** – Official website for IIT Jammu Techfest
-- 🛒 **[e-plantShopping](https://github.com/Saivishnu1/e-plantShopping)** – A full-fledged e-commerce app
+- 🛒 **[e-plantShopping](https://github.com/Saivishnu1/e-plantShopping)** – A full-fledged e-commerce app building with MERN Stack
 - 🧠 **[my-portfolio](https://github.com/Saivishnu1/my-portofolio)** – Clean and modern dev portfolio site
 - 🤖 **[Chatbot](https://github.com/Saivishnu1/Chatbot)** – Interactive web-based chatbot project
 - 📷 **[CHITRAKA](https://github.com/Saivishnu1/CHITRAKA)** – Photography club website built with React + Firebase
