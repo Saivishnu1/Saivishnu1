@@ -13,7 +13,7 @@
 - 🌐 Passionate about **Full Stack Development** (React + Next.js + Node.js)
 - ⚙️ Backend wizard with real-world experience in **Python, Golang, Java, and C++**
 - ☁️ Cloud-native builder with **Docker, Jenkins, GCP, GKE, Pub/Sub**, and **CI/CD pipelines**
-- 🔍 Regular **DSA problem solver** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/saivishnu629/)
+- 🔍 Regular **DSA problem solver** on [AlgoZenith]((https://maang.in/users/vishnu_629)), [GeeksforGeeks](https://www.geeksforgeeks.org/user/saivishnu629/)
 - 🎯 Strong believer in system design, clean architecture, and scalable microservices
 - 📦 Always learning, building, and experimenting
 
