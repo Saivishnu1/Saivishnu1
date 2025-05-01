@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Saivishnu 👋</h1>
-<h3 align="center">Technical Lead @ HCLTech | Full Stack & Cloud Developer | Python, Go, C++ | DSA Enthusiast</h3>
+<h3 align="center">Technical Lead @ HCLTech | Full Stack & Cloud Developer | Java, Python, C++, Go | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coder gif" />
