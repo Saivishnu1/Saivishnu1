@@ -23,7 +23,7 @@
 
 | Category         | Tools & Technologies                                                                 |
 |------------------|----------------------------------------------------------------------------------------|
-| 💻 Programming    | **C++**, Python, Golang, Java, JavaScript, C#                                         |
+| 💻 Programming    | **C++**, Java, Python, Golang, JavaScript, C#                                         |
 | 🌐 Web Stack      | React, Next.js, Node.js, Express.js, HTML, CSS                                        |
 | ☁️ DevOps/Cloud   | Docker, Jenkins, GCP (GKE, Cloud Run, Pub/Sub), AWS EC2/S3, GitHub Actions            |
 | 🛢️ Databases      | MongoDB, MySQL, Firebase, PostgreSQL                                                  |
