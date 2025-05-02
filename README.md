@@ -11,6 +11,7 @@
 
 - 🔧 Technical Lead at **HCLTech**, working onsite at **Ford GTBC, Chennai**
 - 🌐 Passionate about **Full Stack Development** (React + Next.js + Node.js)
+- 🤖 Gen AI researcher getting upskilled on the latest tools and technologies.
 - ⚙️ Backend wizard with real-world experience in **Python, Golang, Java, and C++**
 - ☁️ Cloud-native builder with **Docker, Jenkins, GCP, GKE, Pub/Sub**, and **CI/CD pipelines**
 - 🔍 Regular **DSA problem solver** on [AlgoZenith](https://maang.in/users/vishnu_629), [GeeksforGeeks](https://www.geeksforgeeks.org/user/saivishnu629/)
