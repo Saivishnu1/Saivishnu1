@@ -45,9 +45,8 @@
 
 ### 🌟 Featured Projects
 
-- **[News Chatbot Frontend](https://github.com/Saivishnu1/news-chatbot-frontend)**: A modern React-based frontend for an AI-powered news chatbot. This application provides an intuitive interface for users to interact with a chatbot that can answer questions about news articles using Retrieval Augmented Generation (RAG) technology. :contentReference[oaicite:3]{index=3}
-
-- **[News Chatbot Backend](https://github.com/Saivishnu1/news-chatbot-backend)**: :contentReference[oaicite:5]{index=5} :contentReference[oaicite:8]{index=8}
+- **[News Chatbot Frontend](https://github.com/Saivishnu1/news-chatbot-frontend)** - A modern React-based frontend for an AI-powered news chatbot. This application provides an intuitive interface for users to interact with a chatbot that can answer questions about news articles using Retrieval Augmented Generation (RAG) technology.
+- **[News Chatbot Backend](https://github.com/Saivishnu1/news-chatbot-backend)** - A FastAPI-powered backend for an intelligent news chatbot that combines RAG with Google's Gemini model. The system provides context-aware responses by retrieving relevant news articles and using them to generate accurate, informative answers.
 - 🔧 **[cloud-bintel](https://github.com/Saivishnu1/cloud-bintel)** – NextJs-based website for a startup
 - 🚗 **[Vehicle Routing Problem](https://github.com/Saivishnu1/Vehicle-Routing-Problem)** – Optimization using Python and Jupyter
 - 🌐 **[technunctus](https://github.com/Saivishnu1/technunctus)** – Official website for IIT Jammu Techfest
