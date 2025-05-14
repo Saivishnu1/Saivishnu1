@@ -10,9 +10,9 @@
 ### 💼 About Me
 
 - 🔧 Technical Lead at **HCLTech**, working onsite at **Ford GTBC, Chennai**
-- 🌐 Passionate about **Full Stack Development** (React + Next.js + Node.js)
+- 🌐 Passionate about **Full Stack Development** (MERN stack, Python, Java, Cloud APIs)
 - 🤖 Gen AI researcher getting upskilled on the latest tools and technologies.
-- ⚙️ Backend wizard with real-world experience in **Python, Golang, Java, and C++**
+- ⚙️ Backend wizard with real-world experience in **Python, Node.js, Java, and C++**
 - ☁️ Cloud-native builder with **Docker, Jenkins, GCP, GKE, Pub/Sub**, and **CI/CD pipelines**
 - 🔍 Regular **DSA problem solver** on [AlgoZenith](https://maang.in/users/vishnu_629), [GeeksforGeeks](https://www.geeksforgeeks.org/user/saivishnu629/)
 - 🎯 Strong believer in system design, clean architecture, and scalable microservices
@@ -24,13 +24,13 @@
 
 | Category         | Tools & Technologies                                                                 |
 |------------------|----------------------------------------------------------------------------------------|
-| 💻 Programming    | **C++**, Java, Python, Golang, JavaScript, C#                                         |
-| 🤖 ML & Gen AI    | LLMs, Deep Learning, Computer Vision, Sentiment Analysis, OpenAI APIs
-| 🌐 Web Stack      | React, Next.js, Node.js, Express.js, HTML, CSS                                        |
+| 💻 Programming    | **C++**, Java, Python, Node.js, JavaScript, C#                                        |
+| 🤖 ML & Gen AI    | LLMs, Deep Learning, Computer Vision, Sentiment Analysis, OpenAI APIs, RAG            |
+| 🌐 Web Stack      | React, Next.js, Node.js, Express.js, HTML, CSS, Flask, FastAPI                        |
 | ☁️ DevOps/Cloud   | Docker, Jenkins, GCP (GKE, Cloud Run, Pub/Sub), AWS EC2/S3, GitHub Actions            |
-| 🛢️ Databases      | MongoDB, MySQL, Firebase, PostgreSQL                                                  |
+| 🛢️ Databases      | MongoDB, MySQL, Firebase, PostgreSQL, Redis, VectorDB                                 |
 | 🧠 Concepts       | System Design, Microservices, CI/CD, Data Analytics, Machine Learning, Windows Services |
-| 🧩 Extras         | Git, Flask, FastAPI, REST APIs, OOP, Event-driven architecture                        |
+| 🧩 Extras         | Git,REST APIs, OOP, Event-driven architecture                                         |
 
 ---
 
@@ -45,6 +45,9 @@
 
 ### 🌟 Featured Projects
 
+- **[News Chatbot Frontend](https://github.com/Saivishnu1/news-chatbot-frontend)**: A modern React-based frontend for an AI-powered news chatbot. This application provides an intuitive interface for users to interact with a chatbot that can answer questions about news articles using Retrieval Augmented Generation (RAG) technology. :contentReference[oaicite:3]{index=3}
+
+- **[News Chatbot Backend](https://github.com/Saivishnu1/news-chatbot-backend)**: :contentReference[oaicite:5]{index=5} :contentReference[oaicite:8]{index=8}
 - 🔧 **[cloud-bintel](https://github.com/Saivishnu1/cloud-bintel)** – NextJs-based website for a startup
 - 🚗 **[Vehicle Routing Problem](https://github.com/Saivishnu1/Vehicle-Routing-Problem)** – Optimization using Python and Jupyter
 - 🌐 **[technunctus](https://github.com/Saivishnu1/technunctus)** – Official website for IIT Jammu Techfest
