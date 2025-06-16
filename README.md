@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 
-- 🔧 Technical Lead at **HCLTech**, working onsite at **Ford GTBC, Chennai**
+- 🔧 Software Engineer at **Ford GTBC, Chennai**
 - 🌐 Passionate about **Full Stack Development** (MERN stack, Python, Java, Cloud APIs)
 - 🤖 Gen AI researcher getting upskilled on the latest tools and technologies.
 - ⚙️ Backend wizard with real-world experience in **Python, Node.js, Java, and C++**
