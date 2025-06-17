@@ -61,7 +61,7 @@
 
 ### 🧠 DSA & Competitive Programming
 
-- 💻 Solved **1500+ DSA problems** across GFG, LeetCode, and HackerRank
+- 💻 Solved **750+ DSA problems** across GFG, LeetCode, and HackerRank
 - 🧩 Strong foundation in **algorithms, problem-solving, and code optimization**
 - 🚀 Favorite languages for DSA: **C++**, Python
 
