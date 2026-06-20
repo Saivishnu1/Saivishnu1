@@ -10,7 +10,7 @@ I work at the intersection of backend engineering and LLM applications. Currentl
 
 At **Avira Digital** I build core backend infrastructure for AI-Evidence360, an enterprise platform that lets teams design and run data pipelines and LLM agent workflows through a visual canvas. This includes:
 
-- A DAG-based pipeline engine (Nexus) with 20+ data source connectors — PubMed, ClinicalTrials.gov, SEC EDGAR, Twitter/X, Reddit, LinkedIn and more
+- A DAG-based pipeline engine (Nexus) with 20+ data source connectors PubMed, ClinicalTrials.gov, SEC EDGAR, Twitter/X, Reddit, LinkedIn and more
 - Multi-agent orchestration APIs running CrewAI workflows with real-time SSE streaming
 - Multi-tenant RBAC with workspace isolation, role management and agent/prompt versioning
 - End-to-end delivery for BMS (pharma client) clinical trial data pipelines feeding LLM agents to generate structured insights
