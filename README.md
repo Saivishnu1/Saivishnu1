@@ -1,102 +1,74 @@
-<h1 align="center">Hi there, I'm Saivishnu 👋</h1>
-<h3 align="center">Software Engineer @ Ford | Full Stack, Gen AI & Cloud Developer | Python, Java, C++, Go | DSA Enthusiast</h3>
+# Hi, I'm Sai Vishnu 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coder gif" />
-</p>
+### Backend Engineer building AI-powered products
 
----
-
-### 💼 About Me
-
-- 🔧 Software Engineer at **Ford GTBC, Chennai**
-- 🌐 Passionate about **Full Stack Development** (MERN stack, Python, Java, Cloud APIs)
-- 🤖 Gen AI researcher getting upskilled on the latest tools and technologies.
-- ⚙️ Backend wizard with real-world experience in **Python, Node.js, Java, and C++**
-- ☁️ Cloud-native builder with **Docker, Jenkins, GCP, GKE, Pub/Sub**, and **CI/CD pipelines**
-- 🔍 Regular **DSA problem solver** on [AlgoZenith](https://maang.in/users/vishnu_629), [GeeksforGeeks](https://www.geeksforgeeks.org/user/saivishnu629/)
-- 🎯 Strong believer in system design, clean architecture, and scalable microservices
-- 📦 Always learning, building, and experimenting
+I work at the intersection of backend engineering and LLM applications. Currently at Avira Digital building an enterprise AI platform — workflow engine, agent orchestration APIs, multi-tenant architecture and client-facing pipelines for pharma clients.
 
 ---
 
-### 🧰 Tech Toolbox
+### What I work on
 
-| Category         | Tools & Technologies                                                                 |
-|------------------|----------------------------------------------------------------------------------------|
-| 💻 Programming    | **C++**, Java, Python, Node.js, JavaScript, C#                                        |
-| 🤖 ML & Gen AI    | LLMs, Deep Learning, Computer Vision, Sentiment Analysis, OpenAI APIs, RAG            |
-| 🌐 Web Stack      | React, Next.js, Node.js, Express.js, HTML, CSS, Flask, FastAPI                        |
-| ☁️ DevOps/Cloud   | Docker, Jenkins, GCP (GKE, Cloud Run, Pub/Sub), AWS EC2/S3, GitHub Actions            |
-| 🛢️ Databases      | MongoDB, MySQL, Firebase, PostgreSQL, Redis, VectorDB                                 |
-| 🧠 Concepts       | System Design, Microservices, CI/CD, Data Analytics, Machine Learning, Windows Services |
-| 🧩 Extras         | Git,REST APIs, OOP, Event-driven architecture                                         |
+At **Avira Digital** I build core backend infrastructure for AI-Evidence360, an enterprise platform that lets teams design and run data pipelines and LLM agent workflows through a visual canvas. This includes:
 
----
+- A DAG-based pipeline engine (Nexus) with 20+ data source connectors — PubMed, ClinicalTrials.gov, SEC EDGAR, Twitter/X, Reddit, LinkedIn and more
+- Multi-agent orchestration APIs running CrewAI workflows with real-time SSE streaming
+- Multi-tenant RBAC with workspace isolation, role management and agent/prompt versioning
+- End-to-end delivery for BMS (pharma client) — clinical trial data pipelines feeding LLM agents to generate structured insights
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivishnu1&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivishnu1&layout=compact&theme=tokyonight" width="49%" />
-</p>
+Before that at **HCLTech** I worked on Ford's vehicle lifecycle platform and built document intelligence into their internal tooling using Pinecone vector search and LLM APIs.
 
 ---
 
-### 🌟 Featured Projects
+### Projects
 
-- **[News Chatbot Frontend](https://github.com/Saivishnu1/news-chatbot-frontend)** - A modern React-based frontend for an AI-powered news chatbot. This application provides an intuitive interface for users to interact with a chatbot that can answer questions about news articles using Retrieval Augmented Generation (RAG) technology.
-- **[News Chatbot Backend](https://github.com/Saivishnu1/news-chatbot-backend)** - A FastAPI-powered backend for an intelligent news chatbot that combines RAG with Google's Gemini model. The system provides context-aware responses by retrieving relevant news articles and using them to generate accurate, informative answers.
-- 🔧 **[cloud-bintel](https://github.com/Saivishnu1/cloud-bintel)** – NextJs-based website for a startup
-- 🚗 **[Vehicle Routing Problem](https://github.com/Saivishnu1/Vehicle-Routing-Problem)** – Optimization using Python and Jupyter
-- 🌐 **[technunctus](https://github.com/Saivishnu1/technunctus)** – Official website for IIT Jammu Techfest
-- 🛒 **[e-plantShopping](https://github.com/Saivishnu1/e-plantShopping)** – A full-fledged e-commerce app building with MERN Stack
-- 🧠 **[my-portfolio](https://github.com/Saivishnu1/my-portofolio)** – Clean and modern dev portfolio site
-- 🤖 **[Chatbot](https://github.com/Saivishnu1/Chatbot)** – Interactive web-based chatbot project
-- 📷 **[CHITRAKA](https://github.com/Saivishnu1/CHITRAKA)** – Photography club website built with React + Firebase
+**[Zerodha Personal MCP Server](https://github.com/Saivishnu1/trading-mcp)** — [Live](https://zerodha-mcp-production.up.railway.app)
 
-> ⬆️ Check my GitHub for more cool projects and experimental work!
+A 55-tool MCP server that exposes live Zerodha market data and analytics to any MCP-compatible AI agent. Built across 19 phases with 1,200+ tests.
 
----
+- Options analytics: OI-based support/resistance, PCR, max pain across NIFTY and BANKNIFTY
+- Technical indicator engine in pure Python (RSI, EMA, MACD, ADX, ATR with Wilder smoothing) — no TA-Lib dependency
+- 6-regime market classifier feeding a signal-priority options strategy recommender
+- Trade journal with P&L tracking, performance analytics and Brier score calibration engine
+- Portfolio-aware recommendation engine with event risk gating, position sizing and global macro context
 
-### 🧠 DSA & Competitive Programming
-
-- 💻 Solved **750+ DSA problems** across GFG, LeetCode, and HackerRank
-- 🧩 Strong foundation in **algorithms, problem-solving, and code optimization**
-- 🚀 Favorite languages for DSA: **C++**, Python
-
-🔗 [GeeksforGeeks Profile → saivishnu629](https://www.geeksforgeeks.org/user/saivishnu629/)
+Stack: Python, FastMCP, Zerodha Kite API, NSELive, Yahoo Finance, Turso SQLite, Docker, Railway
 
 ---
 
-### 🏆 Achievements
+**[AI News Chatbot](https://github.com/Saivishnu1/news-chatbot-frontend)** — [Live demo](https://news-chatbot-frontend.onrender.com)
 
-- 🔥 **98.9 percentile** – JEE Advanced 2019
-- 🥇 **State Rank 3** – AP Chekumuki Science Talent Test
-- 🌍 **Top 300 out of 60,000+** – NSEJS
+RAG-powered news chatbot. FastAPI backend, React frontend with live chat, Qdrant vector search, Redis session caching, PostgreSQL persistence, Google Gemini for generation.
 
----
-
-### 📬 Let's Connect!
-
-<p>
-  <a href="https://www.linkedin.com/in/sai-vishnu-mummineni/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:saivishnu1652@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/saivishnu629/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+Stack: FastAPI, React, TypeScript, Gemini API, Qdrant, Redis, PostgreSQL
 
 ---
 
-### ⚡ Fun Fact
+### Stack
 
-If I’m not solving a DSA problem or designing a scalable backend, I’m probably sketching out a new system architecture for fun — or trying to cut a `O(n²)` down to `O(n log n)` just for the thrill 😄
+```
+AI / LLM     LangGraph, LangChain, CrewAI, MCP Protocol, RAG, SSE Streaming,
+             OpenAI API, Anthropic Claude, FAISS, pgvector, Qdrant, Pinecone
+
+Backend      Python, FastAPI, Flask, Java, REST APIs, WebSockets, SQLAlchemy
+
+Databases    PostgreSQL, CockroachDB, Redis, MySQL, MSSQL, vector databases
+
+Cloud        AWS (EC2, S3, Lambda), Docker, GCP Cloud Run, OpenTelemetry
+```
 
 ---
 
-⭐️ _Thanks for visiting my profile! Feel free to explore my repos and drop a message if you'd like to connect, collaborate, or geek out over code._
+### Achievements
+
+- 98.9 percentile in JEE Advanced 2019
+- 750+ DSA problems solved across LeetCode, Codeforces and GFG
+- State 3rd rank in AP Chekumuki Science Talent Test (2017)
+- Top 300 out of 60,000 in NSEJS (2016)
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-vishnu-mummineni/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:saivishnu1652@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Saivishnu1)
