@@ -55,16 +55,6 @@ Databases    PostgreSQL, CockroachDB, Redis, MySQL, MSSQL, vector databases
 
 Cloud        AWS (EC2, S3, Lambda), Docker, GCP Cloud Run, OpenTelemetry
 ```
-
----
-
-### Achievements
-
-- 98.9 percentile in JEE Advanced 2019
-- 750+ DSA problems solved across LeetCode, Codeforces and GFG
-- State 3rd rank in AP Chekumuki Science Talent Test (2017)
-- Top 300 out of 60,000 in NSEJS (2016)
-
 ---
 
 ### Connect
